@@ -13,8 +13,8 @@ This is the source code for my Graduation Thesis: Vehicle Re-Identification usin
 * **caffe** - 1.0.0
 
 ## Addittional Source
-***Trained models are available at**: https://drive.google.com/open?id=1NhSOgZlJqtUkjns2fva6nfNz18CJnXqH
-***Video 'How to run' is available at**: *update later
+* **Trained models are available at**: https://drive.google.com/open?id=1NhSOgZlJqtUkjns2fva6nfNz18CJnXqH
+* **Video 'How to run' is available at**: *update later
 
 ## Authors
 
