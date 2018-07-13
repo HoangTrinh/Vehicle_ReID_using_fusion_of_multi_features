@@ -13,7 +13,7 @@ This is the source code for my Graduation Thesis: Vehicle Re-Identification usin
 * **caffe** - 1.0.0
 * **MatLab** - R2017b
 
-## Addittional Source
+## Addittional Sources
 * **VeRi-776 Dataset**: https://github.com/VehicleReId/VeRidataset
 * **CompCars Dataset**: http://mmlab.ie.cuhk.edu.hk/datasets/comp_cars/index.html
 * **Vcolor models**: https://github.com/rezafuad/vehicle-color-recognition
@@ -21,7 +21,7 @@ This is the source code for my Graduation Thesis: Vehicle Re-Identification usin
 * **Trained models and results are available at**: https://drive.google.com/open?id=1NhSOgZlJqtUkjns2fva6nfNz18CJnXqH
 * **Video 'How to run' is available at**: https://www.youtube.com/watch?v=gDNMbp4e1z8
 
-## Authors
+## Author
 
 * **Hoang Trinh Man** - hoangtrinh1001@gmail.com
 
