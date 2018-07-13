@@ -11,6 +11,7 @@ This is the source code for my Graduation Thesis: Vehicle Re-Identification usin
 * **h5py** - 2.7.1
 * **keras (-gpu)** - 2.1.5
 * **caffe** - 1.0.0
+* **MatLab** - R2017b
 
 ## Addittional Source
 * **VeRi-776 Dataset**: https://github.com/VehicleReId/VeRidataset
