@@ -4,6 +4,7 @@ This is the source code for my Graduation Thesis: Vehicle Re-Identification usin
 
 ## System requirement
 * **Python** - 2.7.14
+* **cuda** - 8.0
 * **cudatoolkit** - 7.5
 * **cudnn** - 5.1
 * **tensorflow (-gpu)** - 1.0.1
