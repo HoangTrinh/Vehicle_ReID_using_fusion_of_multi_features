@@ -18,7 +18,7 @@ This is the source code for my Graduation Thesis: Vehicle Re-Identification usin
 * **CompCars Dataset**: http://mmlab.ie.cuhk.edu.hk/datasets/comp_cars/index.html
 * **Vcolor models**: https://github.com/rezafuad/vehicle-color-recognition
 * **GoogleNet models**: https://gist.github.com/bogger/b90eb88e31cd745525ae
-* **Trained models and results are available at**: https://drive.google.com/open?id=1NhSOgZlJqtUkjns2fva6nfNz18CJnXqH
+* **Trained models, results and my thesis are available at**: https://drive.google.com/open?id=1NhSOgZlJqtUkjns2fva6nfNz18CJnXqH
 * **Video 'How to run' is available at**: https://www.youtube.com/watch?v=gDNMbp4e1z8
 
 ## Author
