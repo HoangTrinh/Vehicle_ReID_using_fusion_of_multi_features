@@ -1,6 +1,6 @@
 # Vehicle_ReID_using_multi_feature
 
-This is the source code for my Graduation Thesis: Vehicle Re-Identification using fusion of Deep features
+This is the source code for my Graduation Thesis: Vehicle Re-Identification using fusion of multi-features
 
 ## System requirement
 * **Python** - 2.7.14
