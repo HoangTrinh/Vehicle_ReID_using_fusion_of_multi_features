@@ -27,7 +27,7 @@ This is the source code for my Graduation Thesis: Vehicle Re-Identification usin
 
 ## Citation
 * Liu X., Liu W., Ma H., Fu H.: Large-scale vehicle re-identification in urban surveillance videos. In: IEEE International Conference on Multimedia and Expo. (2016) accepted.
-* Surveillance. In: European Conference on Computer Vision. Springer International Publishing, 2016: 869-884.
+* Liu X., Liu W., Mei T., Ma H. A Deep Learning-Based Approach to Progressive Vehicle Re-identification for Urban Surveillance.  In: European Conference on Computer Vision. Springer International Publishing, 2016: 869-884.
 * Linjie Yang, Ping Luo, Chen Change Loy, Xiaoou Tang. A Large-Scale Car Dataset for Fine-Grained Categorization and Verification, In Computer Vision and Pattern Recognition (CVPR), 2015.
 * Vehicle Color Recognition using Convolutional Neural Network, Reza Fuad Rachmadi and I Ketut Eddy Purnama, https://arxiv.org/abs/1510.07391
 
