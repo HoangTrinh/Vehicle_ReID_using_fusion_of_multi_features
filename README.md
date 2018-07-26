@@ -20,6 +20,7 @@ This is the source code for my Graduation Thesis: Vehicle Re-Identification usin
 * **GoogleNet models**: https://gist.github.com/bogger/b90eb88e31cd745525ae
 * **Trained models, results and my thesis are available at**: https://drive.google.com/open?id=1NhSOgZlJqtUkjns2fva6nfNz18CJnXqH
 * **Video 'How to run' is available at**: https://www.youtube.com/watch?v=gDNMbp4e1z8
+* **Video spotlight is available at**: https://www.youtube.com/watch?v=y_hsnMtaKQk
 
 ## Author
 
