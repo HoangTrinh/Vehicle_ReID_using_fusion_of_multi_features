@@ -14,6 +14,7 @@ This is the source code for my Graduation Thesis: Vehicle Re-Identification usin
 * **MatLab** - R2017b
 
 ## Addittional Sources
+* **My paper**: https://drive.google.com/file/d/1aECSaygr_LXRv2jeCplqsPF4hECQVOII/view?usp=sharing
 * **VeRi-776 Dataset**: https://github.com/VehicleReId/VeRidataset
 * **CompCars Dataset**: http://mmlab.ie.cuhk.edu.hk/datasets/comp_cars/index.html
 * **Vcolor models**: https://github.com/rezafuad/vehicle-color-recognition
